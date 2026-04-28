@@ -1,0 +1,21 @@
+.vscode/
+*.log
+*.lock
+*.uvguix*
+*.uvoptx
+*.lst
+
+# Keil/MDK build outputs
+*.axf
+*.crf
+*.d
+*.dep
+*.htm
+*.hex
+*.iex
+*.lnp
+*.map
+*.o
+
+# Project build directory
+/C8T6 qudong ADS124S08/
